@@ -17,7 +17,6 @@
     "@songxy-element/hooks": "workspace:*",
     "@songxy-element/theme": "workspace:*",
     "@songxy-element/utils": "workspace:*",
-    "@songxy-element/docs": "workspace:*",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/vue-fontawesome": "^3.0.8",
