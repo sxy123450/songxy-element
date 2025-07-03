@@ -9,3 +9,8 @@ defineOptions({
 })
 
 </script>
+<style>
+button {
+    color:red
+}
+</style>
